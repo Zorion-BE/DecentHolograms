@@ -4,7 +4,7 @@ plugins {
     id "com.github.johnrengelman.shadow" version "8.1.1"
 }
 
-group = "eu.decentsoftware.holograms"
+//group = "eu.decentsoftware.holograms"
 version = "2.8.13"
 description = "A lightweight yet very powerful hologram plugin with many features and configuration options."
 
